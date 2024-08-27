@@ -72,3 +72,4 @@ def is_prime(n):
 
 odd_numbers = [num for num in range(10, 31) if num % 2 != 0]
 print(odd_numbers)
+odd_numbers.append(100)
